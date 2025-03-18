@@ -46,20 +46,39 @@ Ensure you have the following installed:
 Enter ingredients (comma-separated): eggs, flour, milk, sugar
 Do you want to edit ingredients? Yes or No
 No
+**Recipe Title: Whimsical Eggy Pancakes**
 
-Recipe Title: Sweet Pancake Delight
-Approximate Time: 20 minutes
-Introduction: A delightful, fluffy pancake recipe perfect for breakfast or snacks.
-Ingredients:
-- 2 eggs
-- 1 cup flour
+**Introduction:**
+Get ready for a fun and delicious cooking adventure! These Whimsical Eggy Pancakes are fluffy, sweet, and perfect for little hands to help with. With just a few simple ingredients—eggs, flour, milk, and sugar—this easy recipe will whip up a stack of delightful pancakes that will make breakfast or snack time extra special. Let’s put on our aprons and get cooking!
+
+**Approximate Time:** 30 minutes 
+
+**Ingredients:**
+- 2 large eggs
+- 1 cup all-purpose flour
 - 1 cup milk
-- 2 tbsp sugar
-Cooking Steps:
-1. Mix all ingredients in a bowl.
-2. Heat a pan and pour batter to form pancakes.
-3. Cook until golden brown on both sides.
-4. Serve with syrup or toppings of choice.
+- 2 tablespoons sugar
+- 1 teaspoon baking powder (optional for fluffiness)
+- A pinch of salt
+- Butter or oil (for cooking)
+
+**Cooking Steps:**
+
+1. **Mix the Dry Ingredients:** In a large mixing bowl, whisk together the flour, sugar, baking powder (if using), and salt until well combined.
+
+2. **Whisk the Wet Ingredients:** In another bowl, crack the eggs and whisk them until frothy. Then, add the milk and mix until everything is blended smoothly.
+
+3. **Combine the Mixtures:** Pour the egg and milk mixture into the bowl with the dry ingredients. Stir gently until just combined. Be careful not to overmix—some small lumps are okay! 
+
+4. **Heat the Pan:** Place a non-stick skillet or griddle on medium heat and add a small amount of butter or oil to coat the surface.
+
+5. **Cook the Pancakes:** Once the pan is hot, ladle about 1/4 cup of batter onto the skillet for each pancake. Let the pancakes cook for about 2-3 minutes, or until small bubbles form on the surface. 
+
+6. **Flip and Finish:** Carefully flip the pancakes using a spatula and cook for another 1-2 minutes until golden brown on both sides. 
+
+7. **Serve and Enjoy:** Stack your delicious pancakes on a plate. They can be enjoyed plain or with toppings like fresh fruit, syrup, or a sprinkle of powdered sugar. 
+
+Get creative! You can even have fun adding chocolate chips or colorful sprinkles to the batter. Enjoy your Whimsical Eggy Pancakes!
 ```
 
 ## Error Handling
