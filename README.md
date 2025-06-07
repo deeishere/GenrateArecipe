@@ -18,12 +18,12 @@ Ensure you have the following installed:
 ## Setup & Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/recipe-generator.git
-   cd recipe-generator
+   git clone https://github.com/deeishere/GenrateArecipe.git
+   cd GenrateArecipe
    ```
 2. Install dependencies:
    ```bash
-   pip install openai
+   pip install openai or pip3 install openai
    ```
 3. Set up the API token:
    - Replace `os.getenv("GITHUB_TOKEN")` with your actual GitHub token or set it as an environment variable:
@@ -32,7 +32,7 @@ Ensure you have the following installed:
      ```
 4. Run the script:
    ```bash
-   python script.py
+   python GenrateArecipe.py or python3 GenrateArecipe.py
    ```
 
 ## Usage
