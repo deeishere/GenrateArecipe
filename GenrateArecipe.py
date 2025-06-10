@@ -22,7 +22,7 @@ while True:
 
 # Formulate the prompt
 prompt_content = (
-    "Please create a recipe for children using the following ingredients: "
+    "Please create a recipe using the following ingredients: "
     f"{', '.join(ingredients)}. "
     "The approximate time to do it 'Approximate Time:'"
     "Include a creative name with 'Recipe Title:', "
