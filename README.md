@@ -1,4 +1,4 @@
-# Recipe Generator Using OpenAI API
+# Recipe Generator Using GitHub API
 
 ## Overview
 This Python script allows users to generate creative recipes using the OpenAI API (hosted on Azure). Users can input a list of ingredients, review them, and receive a custom recipe including the title, introduction, ingredients, and cooking steps.
